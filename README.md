@@ -25,12 +25,12 @@ In this Codelab, one will learn how to integrate the [Paging Library](https://de
 
 ### Branches in this Repository
 
-* **[todo-starter-code](https://github.com/kaushiknsanji/PagingSampleCodelab/tree/todo-starter-code)**
+* **[todo-starter-code](https://github.com/clintcan/PagingSampleCodelab/tree/todo-starter-code)**
     * This is the repository to start working with.
 	* Contains codes written in Java.
 	* Contains **TODOs** where one needs to write code. This is suitably marked such that a Java developer can follow with the existing Kotlin Codelab. 
 	* Each Codelab step where one needs to write code, has been marked with the TODO comment following the syntax `//TODO(Step-X): ` where **`X`** is the Codelab Step number. This number may change if the original codelab changes.
-* **[solution-code](https://github.com/kaushiknsanji/PagingSampleCodelab/tree/solution-code)**
+* **[solution-code](https://github.com/clintcan/PagingSampleCodelab/tree/solution-code)**
     * This is the repository for the Solution code written in Java.
 	
 ### Differences with respect to the Original Kotlin sample
